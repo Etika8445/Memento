@@ -11,7 +11,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript. The 
 - **Projects**: A showcase of my personal and professional projects with links.
 - **Contact**: Information on how to get in touch with me.
 
-### Installation
+## Installation
 
 1. Clone the repository to your local machine:
 
